@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Payoneer Checkout</string>
+    <string name="back_button">Go Back</string>
+    <string name="payment_methods">Payment methods</string>
+    <string name="payment_option_icon">payment option icon</string>
+    <string name="payment">Payment Options</string>
+</resources>
